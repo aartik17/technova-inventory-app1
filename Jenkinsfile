@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Clone Code') {
             steps {
-                git branch: 'main', url: 'https://github.com/Mitesh-Saste/technova-inventory-app.git'
+                git branch: 'main', url: 'https://github.com/aartik17/technova-inventory-app1.git'
             }
         }
 
