@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = 'technova-inventory'
-        DOCKERHUB_REPO = 'aartik1704/technova-inventory'
+        DOCKERHUB_REPO = 'aarti1704/technova-inventory'
     }
 
     stages {
